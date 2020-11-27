@@ -18,6 +18,12 @@
   background: var(--header-bg);
   padding: 30px 20px;
 }
+
+body {
+	
+	direction: rtl;
+}
+
 .site-navigation {
   ul {
     list-style: none;
